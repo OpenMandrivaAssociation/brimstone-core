@@ -3,7 +3,7 @@
 
 Name:           brimstone-core
 Version:        0.2.9
-Release:        %mkrel 0.0.2
+Release:        %mkrel 0.0.3
 Epoch:          0
 Summary:        org.freecompany.brimstone
 License:        MIT
@@ -17,7 +17,7 @@ Requires:       java-icedtea
 Requires:       util-services
 BuildRequires:  ant
 BuildRequires:  ant-junit
-BuildRequires:  jpackage-utils >= 0:1.6
+BuildRequires:  java-rpmbuild >= 0:1.6
 BuildRequires:  junit
 BuildRequires:  util-services
 %if %{gcj_support}
