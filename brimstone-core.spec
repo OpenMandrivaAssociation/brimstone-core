@@ -3,7 +3,7 @@
 
 Name:           brimstone-core
 Version:        0.2.9
-Release:        %mkrel 5.0.4
+Release:        %mkrel 5.0.5
 Epoch:          0
 Summary:        org.freecompany.brimstone
 License:        MIT
