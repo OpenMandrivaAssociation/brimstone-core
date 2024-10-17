@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        org.freecompany.brimstone
 License:        MIT
 Group:          Development/Java
-URL:            http://www.freecompany.org/
+URL:            https://www.freecompany.org/
 # svn export https://svn.freecompany.org/public/brimstone/tags/brimstone-core-0.2.9 | yes t
 # zip -9r brimstone-core-src-0.2.9.zip brimstone-core-0.2.9
 Source0:        http://repository.freecompany.org/org/freecompany/brimstone/zips/brimstone-core-src-%{version}.zip
